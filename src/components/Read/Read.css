@@ -1,0 +1,32 @@
+.read {
+  border: 1px solid grey;
+  padding: 20px;
+  background-color: white;
+  margin: 5% auto;
+  display: flex;
+  max-width: 600px;
+}
+
+.green{
+  color: green;
+  font-weight: 500;
+  padding-right: 10px;
+}
+
+.red{
+  color: red;
+  font-weight: 500;
+  padding-right: 10px;
+}
+
+.friend{
+  display: flex;
+}
+.friend svg{
+  margin-top: 5px;
+}
+
+.present-label{
+  padding-left: 10px;
+}
+

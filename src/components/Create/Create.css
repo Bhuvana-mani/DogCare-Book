@@ -1,0 +1,16 @@
+.create {
+    border: 1px solid grey;
+    padding: 20px;
+    background-color: white;
+    margin: 5% auto;
+    display: flex;
+    max-width: 600px;
+}
+
+td a {
+    padding: 5px;
+}
+
+.image{
+    width: 100%;
+}
